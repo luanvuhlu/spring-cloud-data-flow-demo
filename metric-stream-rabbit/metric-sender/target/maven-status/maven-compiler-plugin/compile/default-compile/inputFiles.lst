@@ -1,0 +1,3 @@
+/Users/luanvv/Documents/spring-data-flow/batchsamples/metric-stream-rabbit/metric-sender/src/main/java/io/spring/dataflow/sample/domain/Metric.java
+/Users/luanvv/Documents/spring-data-flow/batchsamples/metric-stream-rabbit/metric-sender/src/main/java/io/spring/dataflow/sample/usagedetailsender/MetricSenderApplication.java
+/Users/luanvv/Documents/spring-data-flow/batchsamples/metric-stream-rabbit/metric-sender/src/main/java/io/spring/dataflow/sample/usagedetailsender/MetricSender.java

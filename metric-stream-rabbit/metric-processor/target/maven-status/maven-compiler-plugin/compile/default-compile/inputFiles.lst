@@ -1,0 +1,4 @@
+/Users/luanvv/Documents/spring-data-flow/batchsamples/metric-stream-rabbit/metric-processor/src/main/java/io/spring/dataflow/sample/usagecostprocessor/BmiProcessor.java
+/Users/luanvv/Documents/spring-data-flow/batchsamples/metric-stream-rabbit/metric-processor/src/main/java/io/spring/dataflow/sample/usagecostprocessor/UsageCostProcessorApplication.java
+/Users/luanvv/Documents/spring-data-flow/batchsamples/metric-stream-rabbit/metric-processor/src/main/java/io/spring/dataflow/sample/domain/Bmi.java
+/Users/luanvv/Documents/spring-data-flow/batchsamples/metric-stream-rabbit/metric-processor/src/main/java/io/spring/dataflow/sample/domain/Metric.java

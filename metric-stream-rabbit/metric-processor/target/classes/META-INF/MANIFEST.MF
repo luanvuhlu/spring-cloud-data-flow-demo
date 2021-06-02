@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: luanvv
+Build-Jdk: 15.0.2
+Implementation-Title: metric-processor
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.luanvv.dataflow.stream
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/metric-stream-rabbit/metric-processor-rabbit
+Created-By: Maven Integration for Eclipse
+

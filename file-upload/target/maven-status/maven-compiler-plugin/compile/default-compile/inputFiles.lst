@@ -1,0 +1,8 @@
+/Users/luanvv/Documents/spring-data-flow/batchsamples/gs-uploading-files/complete/src/main/java/com/example/uploadingfiles/UploadingFilesApplication.java
+/Users/luanvv/Documents/spring-data-flow/batchsamples/gs-uploading-files/complete/src/main/java/com/example/uploadingfiles/storage/StorageException.java
+/Users/luanvv/Documents/spring-data-flow/batchsamples/gs-uploading-files/complete/src/main/java/com/example/uploadingfiles/FileUploadController.java
+/Users/luanvv/Documents/spring-data-flow/batchsamples/gs-uploading-files/complete/src/main/java/com/example/uploadingfiles/storage/StorageService.java
+/Users/luanvv/Documents/spring-data-flow/batchsamples/gs-uploading-files/complete/src/main/java/com/example/uploadingfiles/TaskService.java
+/Users/luanvv/Documents/spring-data-flow/batchsamples/gs-uploading-files/complete/src/main/java/com/example/uploadingfiles/storage/StorageProperties.java
+/Users/luanvv/Documents/spring-data-flow/batchsamples/gs-uploading-files/complete/src/main/java/com/example/uploadingfiles/storage/FileSystemStorageService.java
+/Users/luanvv/Documents/spring-data-flow/batchsamples/gs-uploading-files/complete/src/main/java/com/example/uploadingfiles/storage/StorageFileNotFoundException.java
