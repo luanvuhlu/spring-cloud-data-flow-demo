@@ -19,7 +19,7 @@ $ ./mvnw clean package
 
 ## Run
 
-## Run file upload website
+### Run file upload website
 
 ```bash
 $ cd file-upload
@@ -30,6 +30,24 @@ $ ./mvnw spring-boot:run
 
 ```bash
 $ docker run -p 3306:3306 --name mysql -e MYSQL_ROOT_PASSWORD=password -e MYSQL_DATABASE=task -d mysql:5.7.25
+```
+### Run RabbitMQ
+
+```bash
+$ docker run -d --hostname rabbitmq --name rabbitmq -p 15672:15672 -p 5672:5672 rabbitmq:3.7.14-management
+```
+
+### Run Skipper Server
+
+Download Skipper Server jar
+
+```bash
+$ wget https://repo.spring.io/release/org/springframework/cloud/spring-cloud-skipper-server/2.6.2/spring-cloud-skipper-server-2.6.2.jar
+```
+Run the server
+
+```bash
+$ java -jar spring-cloud-skipper-server-2.6.2.jar "--spring.datasource.url=jdbc:mysql://localhost:3306/task?useSSL=false"  "--spring.datasource.username=root"  "--spring.datasource.password=password" "--spring.datasource.driverClassName=org.mariadb.jdbc.Driver"
 ```
 
 ### Run Data Flow Server
